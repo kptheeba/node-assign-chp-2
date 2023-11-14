@@ -6,6 +6,7 @@ npm install yargs
 
 To run the code
 node app.js write --filename example.txt
+-------------------------------------
 
 
 npm install express
